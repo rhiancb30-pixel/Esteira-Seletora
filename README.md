@@ -82,7 +82,7 @@ O sistema é dividido em dois módulos principais:
 
 ---
 
-## 📂 Estrutura do Repositório (sugerida)
+## 📂 Estrutura do Repositório
 
 ```
 Esteira-Seletora-Linear/
