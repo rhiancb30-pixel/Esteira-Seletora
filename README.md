@@ -2,7 +2,7 @@
 
 ## 📌 Descrição do Projeto
 
-Este repositório apresenta o desenvolvimento de uma **Esteira Seletora Linear**, criada como projeto didático para o Curso Técnico Integrado ao Ensino Médio em Mecatrônica do **Instituto Federal de Santa Catarina (IFSC)**, no contexto da disciplina **Projeto Integrador Eletromecânico**.
+Este repositório apresenta o desenvolvimento de uma **Esteira Seletora Linear**, criada como projeto didático para o Curso de Engenharia Mecatrônica do **Instituto Federal de Santa Catarina (IFSC)**, no contexto da disciplina **Projeto Integrador Eletromecânico**.
 
 O objetivo principal do projeto é proporcionar aos alunos uma experiência prática próxima à realidade industrial, integrando conceitos de **mecânica, eletrônica e programação**, por meio de um sistema automatizado, modular e de baixo custo.
 
