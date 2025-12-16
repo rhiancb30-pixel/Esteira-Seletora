@@ -177,7 +177,7 @@ Esteira-Seletora-Linear/
 ## 🏫 Instituição
 
 **Instituto Federal de Santa Catarina (IFSC)**
-Curso Técnico Integrado ao Ensino Médio em Mecatrônica
+Curso de Engenharia Mecatrônica
 Projeto Integrador Eletromecânico – 2025
 
 ---
